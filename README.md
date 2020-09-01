@@ -138,7 +138,7 @@
 
 这本书是去面试的过程中，结束面试时候一位面试官推荐给我的，感觉他对TCP/IP 协议以及相关的计算机网络知识非常精通。他推荐的，肯定没错。
 
-<img src="C:\Users\刘溢飞\AppData\Roaming\Typora\typora-user-images\image-20200828114512765.png" alt="image-20200828114512765" style="zoom:67%;" />
+<img src="images/17.jpg" alt="17" style="zoom:67%;" />
 
 [百度网盘链接](https://pan.baidu.com/s/1sKSqGQrV-WXPkVbSug88rQ) 提取码：91g5
 
