@@ -91,7 +91,7 @@
 
 [百度网盘链接](https://pan.baidu.com/s/1meJ3IXo_kVIs2Y-R5RILzg )   提取码：omqf
 
-<img src="C:\Users\刘溢飞\AppData\Roaming\Typora\typora-user-images\image-20200828113057467.png" alt="image-20200828113057467" style="zoom:50%;" />
+<img src="./images/18.jpg" alt="18" style="zoom:67%;" />
 
 
 
